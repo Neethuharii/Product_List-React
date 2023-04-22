@@ -1,0 +1,32 @@
+.box{
+ margin: 5px;
+ border-left: 5px solid whitesmoke;
+ border-bottom: 2px solid whitesmoke;
+ box-shadow: 20px;
+ border-top: 3px solid whitesmoke;
+}
+
+.Header{
+    color: white;
+    background-color: lightblue;
+    margin-left: 30px;
+    margin-right: 30px;
+    }
+.button1{
+    margin-left: 3px;
+    margin-right: 3px;
+    background-color: cadetblue;
+    border: none;
+}
+.button2{
+    margin: 3px;
+    background-color: cadetblue;
+    border: none;
+}
+.full{
+display: inline-flex;
+}
+.add{
+    background-color: cadetblue;
+    border: none;
+}
