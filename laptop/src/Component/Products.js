@@ -43,7 +43,7 @@ const incQty=(id) => {
      className='button2'>+</Button>
     </p>
   </div>
-  <Button className='add' variant="primary">Add to Cart</Button>
+  <Button className='add' variant="primary">Add to cart</Button>
 </Card.Body>
 </Card>
 </div>
